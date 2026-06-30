@@ -112,52 +112,61 @@ Features:
 
 # 🛠 Technology Stack
 
-
-# 🎨 Frontend
-
-
-| Technology | Usage |
-|---|---|
-| ⚛️ React 19 | UI Components |
-| ▲ Next.js 16 | Full-stack React Framework |
-| 🎨 Tailwind CSS 4 | Styling |
-| 🔷 TypeScript | Type safety |
-| 🔗 Axios | API Requests |
-| 📊 Recharts | Analytics Charts |
-| 🎯 React Icons | UI Icons |
+# 🛠️ Tech Stack
 
 
----
+## 🎨 Frontend
 
-# ⚙️ Backend
-
-
-| Technology | Usage |
-|---|---|
-| 🟢 Node.js | Runtime |
-| 🚂 Express.js 5 | REST API Server |
-| 🔷 Prisma ORM | Database ORM |
-| 🔐 JWT | Authentication |
-| 🔒 bcrypt | Password Security |
-| 🛡 Helmet | Security Headers |
-| 🌐 CORS | Widget Communication |
-| 🚦 Express Rate Limit | API Protection |
-| 📝 Morgan | Request Logging |
-| ✅ Zod | Validation |
-| 🔥 Groq SDK | AI Responses |
-| 🧠 Transformers.js | Embeddings |
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 
 
 ---
 
-# 🗄 Database
+## ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js_5-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+![Helmet](https://img.shields.io/badge/Helmet.js-000000?style=for-the-badge)
+![CORS](https://img.shields.io/badge/CORS-FF6B6B?style=for-the-badge)
+![Morgan](https://img.shields.io/badge/Morgan-8A2BE2?style=for-the-badge)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black)
 
 
-| Technology | Usage |
-|---|---|
-| 🐘 PostgreSQL | Main Database |
-| 🔷 Prisma | Schema Migration |
-| 🧬 pgvector | AI Embeddings |
+---
+
+## 🤖 AI / RAG Stack
+
+![Groq](https://img.shields.io/badge/Groq_AI-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC72B?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers.js](https://img.shields.io/badge/Transformers.js-FFCA28?style=for-the-badge)
+
+
+---
+
+## 🗄 Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma Migrations](https://img.shields.io/badge/Prisma_Migrations-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+
+---
+
+## 🚀 Deployment
+
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ---
